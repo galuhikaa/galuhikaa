@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Galuhika.
+- 👀 I’m passionate about programming, especially mobile development.
+- 🌱 I’m currently learning mobile app development (android).
+- 📫 Feel free to reach me at: galuhika02@gmail.com.
+- ⚡ Fun fact: I’m a movie enthusiast !
